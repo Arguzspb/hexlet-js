@@ -1,0 +1,23 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "nope",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arguzspb/hexlet-js.git"
+  },
+  "keywords": [
+    "hexlet"
+  ],
+  "author": "Dmitriy Kruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arguzspb/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Arguzspb/hexlet-js#readme"
+}
